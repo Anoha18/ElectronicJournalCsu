@@ -1,0 +1,6 @@
+{
+  "testEnvironment": "node",
+  "jest": {
+    "verbose": true
+  }
+}
