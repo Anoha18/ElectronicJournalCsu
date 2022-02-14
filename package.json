@@ -39,7 +39,7 @@
     "jest": "^24.9.0",
     "jest-puppeteer": "^4.4.0",
     "mini-css-extract-plugin": "^0.8.2",
-    "node-sass": "^4.13.0",
+    "node-sass": "^7.0.0",
     "postcss-loader": "^3.0.0",
     "sass-loader": "^8.0.0",
     "superagent": "^5.2.1",
